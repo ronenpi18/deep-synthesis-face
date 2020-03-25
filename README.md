@@ -132,10 +132,3 @@ Example:
 - [OpenCV 3.0](http://opencv.org/)
 - [Dlib 19.4](http://dlib.net/)
 
-## Acknowledgments
-Kudos to [Christopher Hesse](https://github.com/christopherhesse) for his amazing pix2pix TensorFlow implementation and [Gene Kogan](http://genekogan.com/) for his inspirational workshop. 
-
-## Copyright
-
-See [LICENSE](LICENSE) for details.
-Copyright (c) 2017 [Dat Tran](http://www.dat-tran.com/).
